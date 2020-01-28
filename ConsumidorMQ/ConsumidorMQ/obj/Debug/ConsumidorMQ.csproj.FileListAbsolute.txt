@@ -1,0 +1,11 @@
+C:\Users\vmatos\source\repos\ConsumidorMQ\ConsumidorMQ\bin\Debug\ConsumidorMQ.exe.config
+C:\Users\vmatos\source\repos\ConsumidorMQ\ConsumidorMQ\bin\Debug\ConsumidorMQ.exe
+C:\Users\vmatos\source\repos\ConsumidorMQ\ConsumidorMQ\bin\Debug\ConsumidorMQ.pdb
+C:\Users\vmatos\source\repos\ConsumidorMQ\ConsumidorMQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\vmatos\source\repos\ConsumidorMQ\ConsumidorMQ\bin\Debug\RabbitMQ.Client.dll
+C:\Users\vmatos\source\repos\ConsumidorMQ\ConsumidorMQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\vmatos\source\repos\ConsumidorMQ\ConsumidorMQ\bin\Debug\RabbitMQ.Client.xml
+C:\Users\vmatos\source\repos\ConsumidorMQ\ConsumidorMQ\obj\Debug\ConsumidorMQ.csproj.CoreCompileInputs.cache
+C:\Users\vmatos\source\repos\ConsumidorMQ\ConsumidorMQ\obj\Debug\ConsumidorMQ.csproj.CopyComplete
+C:\Users\vmatos\source\repos\ConsumidorMQ\ConsumidorMQ\obj\Debug\ConsumidorMQ.exe
+C:\Users\vmatos\source\repos\ConsumidorMQ\ConsumidorMQ\obj\Debug\ConsumidorMQ.pdb
